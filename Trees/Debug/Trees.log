@@ -1,0 +1,5 @@
+﻿  CNodeDynamic.cpp
+D:\MAIN\Projekty MSVS\Trees\CNodeDynamic.cpp(81,27): warning C4018: '<': signed/unsigned mismatch
+D:\MAIN\Projekty MSVS\Trees\CNodeDynamic.cpp(86,41): warning C4018: '<': signed/unsigned mismatch
+D:\MAIN\Projekty MSVS\Trees\CNodeDynamic.cpp(107,27): warning C4018: '<': signed/unsigned mismatch
+  Trees.vcxproj -> D:\MAIN\Projekty MSVS\Trees\Debug\Trees.exe
