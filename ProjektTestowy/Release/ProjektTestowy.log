@@ -1,0 +1,7 @@
+﻿  CTable.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\MAIN\Projekty MSVS\ProjektTestowy\main.cpp(75): error C4700: uninitialized local variable 'pi_table' used
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
